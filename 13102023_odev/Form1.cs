@@ -1,6 +1,3 @@
-using System.Data;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.TaskbarClock;
-
 namespace _13102023_odev
 {
     public partial class Form1 : Form
